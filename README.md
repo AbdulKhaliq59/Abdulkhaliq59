@@ -13,7 +13,7 @@ I'm a full-stack developer passionate about crafting robust web applications.
 ## Projects 🚀
 Check out some of my work:
 1. **Simplicio Application:** Web Based Application used to send money for charity in church. [Repo](https://github.com/AbdulKhaliq59/simplicio-fn) / [Demo](https://simplicio-fn.netlify.app/)
-2. **Portdolio website:** My Portfolio Application used to describe me myself as software developer. [Repo](https://github.com/AbdulKhaliq59/portfolio-fn) / [Demo](https://khaliq.netlify.app/)
+2. **Portfolio website:** My Portfolio Application used to describe me myself as software developer. [Repo](https://github.com/AbdulKhaliq59/portfolio-fn) / [Demo](https://khaliq.netlify.app/)
 
 ## Open Source Contributions
 I contribute to open-source projects:
