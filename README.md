@@ -25,4 +25,4 @@ Let's connect and collaborate:
 - **Email:** [kananuraabdulkhaliq59@gmail.com](kananuraabdulkhaliq59@gmail.com)
 - **LinkedIn:** [kananura-abdulkhaliq-4b4473222](https://www.linkedin.com/in/kananura-abdulkhaliq-4b4473222/)
   
-Thanks for stopping by! 🚀
+Thanks for visiting me! 🚀
